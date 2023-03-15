@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+        {
+            "id": "1a9z",
+            "usuario": "Pedro43",
+            "nombre": "Pedro",
+            "apellido": "Soto",
+            "password": "123456",
+            "correo": "pedro@gmail.com"
+        },
+        {
+            "id": "2b8y",
+            "usuario": "carlos15",
+            "nombre": "Carlos",
+            "apellido": "Silva",
+            "password": "123456",
+            "correo": "carlos@gmail.com"
+        },
+        {
+            "id": "3c7x",
+            "usuario": "diego23",
+            "nombre": "Diego",
+            "apellido": "Meza",
+            "password": "123456",
+            "correo": "diego@gmail.com"
+        }
+    ]
+}

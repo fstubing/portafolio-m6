@@ -1,0 +1,140 @@
+{
+    "ventas": [
+        {
+            "id": "702de063",
+            "fecha": "13-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a1",
+                    "cantidad": 5
+                }
+            ],
+            "precioTotalCompra": 2250000
+        },
+        {
+            "id": "67d9cd4b",
+            "fecha": "13-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a1",
+                    "cantidad": 5
+                }
+            ],
+            "precioTotalCompra": 2250000
+        },
+        {
+            "id": "49e21df0",
+            "fecha": "13-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a3",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "a4",
+                    "cantidad": 2
+                },
+                {
+                    "codigo": "a5",
+                    "cantidad": 1
+                }
+            ],
+            "precioTotalCompra": 2861980
+        },
+        {
+            "id": "7e13a466",
+            "fecha": "13-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a4",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "a3",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "a2",
+                    "cantidad": 1
+                }
+            ],
+            "precioTotalCompra": 1423990
+        },
+        {
+            "id": "f5d69f27",
+            "fecha": "14-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a2",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "a1",
+                    "cantidad": 2
+                },
+                {
+                    "codigo": "a4",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "55ca4d",
+                    "cantidad": 1
+                }
+            ],
+            "precioTotalCompra": 1003980
+        },
+        {
+            "id": "481aa034",
+            "fecha": "14-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a4",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "a3",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "55ca4d",
+                    "cantidad": 2
+                }
+            ],
+            "precioTotalCompra": 1435970
+        },
+        {
+            "id": "13eda210",
+            "fecha": "14-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "a1",
+                    "cantidad": 2
+                },
+                {
+                    "codigo": "a4",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "55ca4d",
+                    "cantidad": 1
+                }
+            ],
+            "precioTotalCompra": 955980
+        },
+        {
+            "id": "40f7f383",
+            "fecha": "14-03-2023",
+            "productosCarro": [
+                {
+                    "codigo": "41a8f7",
+                    "cantidad": 1
+                },
+                {
+                    "codigo": "d9b8de",
+                    "cantidad": 1
+                }
+            ],
+            "precioTotalCompra": 614980
+        }
+    ]
+}
